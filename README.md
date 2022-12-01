@@ -14,7 +14,7 @@ We will also get started with learning some basic Python commands using [Jupyter
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Install Python & Jupyter - Python String Methods)
     - Deena Blumenkrantz: [Jupyter Notebook extensions and embedding a gist](https://medium.com/deena-does-data-science/jupyter-notebook-extensions-e6b57d004e8e) 
 - Assignments (due by 10am on the day of class):
-    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/_vkvp0tg)
+    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/e19cqP1W)
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - DHRI: [Introduction to Git and GitHub](https://curriculum.dhinstitutes.org/workshops/git/)
