@@ -1,4 +1,4 @@
-# Week 3:Introduction to Git and Github + Python Basics I
+# Week 3: Introduction to Git and Github + Python Basics I
 
 This week, we will learn how to use Git and Github, which are powerful tools for collaborative and individual projects. Git is a version control software that aids with tracking changes made to a set of files over time. GitHub is a web-based platform for storing and sharing project files online. You will use GitHub throughout the semester to share your homework assignments with me. Having a GitHub page with evidence of your programming work can serve as a programming portfolio when applying for jobs. 
 
